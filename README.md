@@ -1,2 +1,2 @@
 # Aulas do segundo trimestre
-Gustavo Jacob - 16
+Gustavo Jacob n-16
