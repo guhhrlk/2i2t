@@ -1,2 +1,2 @@
-# Aulas do segundo trimestre
-Gustavo Jacob n-16
+# Aulas do Segundo Trimestre
+Gustavo Jacob - nº16
